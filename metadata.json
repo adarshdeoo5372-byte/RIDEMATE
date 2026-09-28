@@ -1,0 +1,6 @@
+{
+  "name": "RideMate - Bike Ride-Sharing Platform",
+  "description": "Share bike rides along matching routes, split travel costs, beat traffic, and connect with verified local commuters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
